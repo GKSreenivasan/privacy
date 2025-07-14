@@ -1,0 +1,213 @@
+{
+  "title": "திருவாசகம்",
+  "description": "இயற்றியவர் மாணிக்கவாசகர். திருவாசகம் 51 பகுதிகளையும் 658 பாடல்களையும் கொண்டுள்ளது.",
+  "collections": [
+    {
+      "title": "01 சிவபுராணம் - நமச்சிவாய வாஅழ்க",
+      "image": "https://gksreenivasan.github.io/privacy/Shiva.png",
+      "filePath": "Sivapuranam.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "02 கீர்த்தித் திருவகவல் - தில்லை மூதூர் ஆடிய ",
+      "filePath": "null",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "03 திருவண்டப் பகுதி - அண்டப் பகுதியின்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_03.html"
+    },
+    {
+      "title": "04 போற்றித் திருவகவல் - நான்முகன் முதலா",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_04.html"
+    },
+    {
+      "title": "05 திருச்சதகம் - மெய்தான் அரும்பி",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_05.html"
+    },
+    {
+      "title": "06 நீத்தல் விண்ணப்பம் - கடையவ னேனைக் ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_06.html"
+    },
+    {
+      "title": "07 திருவெம்பாவை - ஆதியும் அந்தமும் ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_07.html"
+    },
+    {
+      "title": "08 திரு அம்மானை - செங்கண் நெடுமாலுஞ்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_08.html"
+    },
+    {
+      "title": "09 திருப்பொற் சுண்ணம் - முத்துநல் தாமம்பூ ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_09.html"
+    },
+    {
+      "title": "10 திருக்கோத்தும்பி - பூவேறு கோனும் ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_10.html"
+    },
+    {
+      "title": "11 திருத்தெள்ளேணம் - திருமாலும் பன்றியாய்ச்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_11.html"
+    },
+    {
+      "title": "12 திருச்சாழல் - பூசுவதும் வெண்ணீறு",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_12.html"
+    },
+    {
+      "title": "13 திருப்பூவல்லி - இணையார் திருவடி",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_13.html"
+    },
+    {
+      "title": "14 திருஉந்தியார் - வளைந்தது வில்லு",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_14.html"
+    },
+    {
+      "title": "15 திருத்தோள் நோக்கம் - பூத்தாரும் பொய்கைப்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_15.html"
+    },
+    {
+      "title": "16 திருப்பொன்னூசல் - சீரார் பவளங்கால்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_16.html"
+    },
+    {
+      "title": "17 அன்னைப் பத்து - வேத மொழியர்வெண்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_17.html"
+    },
+    {
+      "title": "18 குயிற்பத்து - கீத மினிய குயிலே ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_18.html"
+    },
+    {
+      "title": "19 திருத்தசாங்கம் - ஏரார் இளங்கிளியே",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_19.html"
+    },
+    {
+      "title": "20 திருப்பள்ளியெழுச்சி - போற்றியென் வாழ்முத",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_20.html"
+    },
+    {
+      "title": "21 கோயில் மூத்த திருப்பதிகம் - உடையாள் உன்தன்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_21.html"
+    },
+    {
+      "title": "22 கோயில் திருப்பதிகம் - மாறிநின்றென்னை ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_22.html"
+    },
+    {
+      "title": "23 செத்திலாப் பத்து - பொய்யனேன் அகம்நெகப்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_23.html"
+    },
+    {
+      "title": "24 அடைக்கலப் பத்து - செழுக்கமலத் திரளனநின்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_24.html"
+    },
+    {
+      "title": "25 ஆசைப்பத்து - கருடக்கொடியோன் காணமாட்டாக்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_25.html"
+    },
+    {
+      "title": "26 அதிசயப் பத்து - வைப்பு மாடென்றும்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_26.html"
+    },
+    {
+      "title": "27 புணர்ச்சிப்பத்து - சுடர்பொற்குன்றைத் தோளாமுத்தை",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_27.html"
+    },
+    {
+      "title": "28 வாழாப்பத்து - பாரொடு விண்ணாய்ப்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_28.html"
+    },
+    {
+      "title": "29 அருட்பத்து - சோதியே சுடரே",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_29.html"
+    },
+    {
+      "title": "30 திருக்கழுக்குன்றப் பதிகம் - பிணக்கிலாத பெருந்துறைப்பெரு",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_30.html"
+    },
+    {
+      "title": "31 கண்டபத்து - இந்திரிய வயமயங்கி",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_31.html"
+    },
+    {
+      "title": "32 பிரார்த்தனைப் பத்து - கலந்து நின்னடி",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_32.html"
+    },
+    {
+      "title": "33 குழைத்த பத்து - குழைத்தால் பண்டைக்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_33.html"
+    },
+    {
+      "title": "34 உயிருண்ணிப்பத்து - பைந்நாப் பட அரவேரல்குல்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_34.html"
+    },
+    {
+      "title": "35 அச்சப்பத்து - புற்றில்வாள் அரவும்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_35.html"
+    },
+    {
+      "title": "36 திருப்பாண்டிப் பதிகம் - பருவரை மங்கைதன்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_36.html"
+    },
+    {
+      "title": "37 பிடித்த பத்து - உம்பர்கட் ரசே",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_37.html"
+    },
+    {
+      "title": "38 திருவேசறவு - இரும்புதரு மனத்தேனை",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_38.html"
+    },
+    {
+      "title": "39 திருப்புலம்பல் - பூங்கமலத் தயனொடுமால்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_39.html"
+    },
+    {
+      "title": "40 குலாப் பத்து - ஓடுங் கவந்தியுமே",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_40.html"
+    },
+    {
+      "title": "41 அற்புதப்பத்து - மைய லாய்இந்த",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_41.html"
+    },
+    {
+      "title": "42 சென்னிப்பத்து - தேவ தேவன்மெய்ச்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_42.html"
+    },
+    {
+      "title": "43 திருவார்த்தை - மாதிவர் பாகன்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_43.html"
+    },
+    {
+      "title": "44 எண்ணப்பதிகம் - பாருருவாய ",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_44.html"
+    },
+    {
+      "title": "45 யாத்திரைப் பத்து - பூவார் சென்னி",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_45.html"
+    },
+    {
+      "title": "46 திருப்படை எழுச்சி - ஞானவாள் ஏந்தும்ஐயர்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_46.html"
+    },
+    {
+      "title": "47 திருவெண்பா - வெய்ய வினையிரண்டும்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_47.html"
+    },
+    {
+      "title": "48 பண்டாய நான்மறை - பண்டாய நான்மறையும்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_48.html"
+    },
+    {
+      "title": "49 திருப்படை ஆட்சி - கண்களிரண்டும் அவன்கழல்",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_49.html"
+    },
+    {
+      "title": "50 ஆனந்தமாலை - மின்னே ரனைய",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_50.html"
+    },
+    {
+      "title": "51 அச்சோப் பதிகம் - முத்திநெறி அறியாத",
+      "filePath": "http://dalvickapps.com/Apps/KandanArul/V1/Data/Deity/Thiruvasagam/Thiruvasagam_51.html"
+    }
+  ]
+}
