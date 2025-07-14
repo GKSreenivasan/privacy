@@ -1,0 +1,63 @@
+{
+  "title": "நலம் தரும் பதிகங்கள்",
+  "description": "Dashboard Content",
+  "collections": [
+    {
+      "title": "விநாயகர் அகவல்",
+      "author": "ஔவையார்",
+      "bgColor": "#FFFFA62F",
+      "image": "https://gksreenivasan.github.io/privacy/Ganesha.png",
+      "filePath": "Vinayagar_Agaval.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கந்தர் அநுபூதி",
+      "author": "அருணகிரிநாதர்",
+      "bgColor": "#FF399918",
+      "filePath": "Kandhar_Anubudhi.json",
+      "navKey": "SongContent"
+    },
+    {
+      "title": "திருவாசகம்",
+      "author": "மாணிக்கவாசகர்",
+      "bgColor": "#FFD2074C",
+      "filePath": "Tiruvasagam_Collections.json",
+      "navKey": "SongCollections"
+    },
+    {
+      "title": "அபிராமி அந்தாதி",
+      "author": "அபிராமி பட்டர்",
+      "bgColor": "#FF555879",
+      "filePath": "Abirami_Antati.json",
+      "navKey": "SongContent"
+    },
+    {
+      "title": "கோளறு திருப்பதிகம்",
+      "author": "திருஞானசம்பந்தர்",
+      "bgColor": "#FF973131",
+      "filePath": "Kolaru_Pathigam.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "நவகிரக காயத்ரி மந்திரம்",
+      "author": "",
+      "bgColor": "#FF0ABAB5",
+      "filePath": "Navagraha_Gayatri.json",
+      "navKey": "CounterContent"
+    },
+    {
+      "title": "லலிதா நவரத்தின மாலை",
+      "author": "ஸ்ரீ அகத்தியர்",
+      "bgColor": "#FFB33791",
+      "filePath": "Lalitha_Navaratna_Maalai.json",
+      "navKey": "2PartContent"
+    },
+    {
+      "title": "ஸ்ரீ வாராஹி மாலை",
+      "author": "வீரை கவிராச பண்டிதர்",
+      "bgColor": "#FFFF715B",
+      "filePath": "Varahi_Malai.json",
+      "navKey": "2PartContent"
+    }
+  ]
+}
