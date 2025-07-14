@@ -20,14 +20,14 @@
     {
       "title": "திருவாசகம்",
       "author": "மாணிக்கவாசகர்",
-      "bgColor": "#FFD2074C",
+      "bgColor": "#FF555879",
       "filePath": "Tiruvasagam_Collections.json",
       "navKey": "SongCollections"
     },
     {
       "title": "அபிராமி அந்தாதி",
       "author": "அபிராமி பட்டர்",
-      "bgColor": "#FF555879",
+      "bgColor": "#FFD2074C",
       "filePath": "Abirami_Antati.json",
       "navKey": "SongContent"
     },
