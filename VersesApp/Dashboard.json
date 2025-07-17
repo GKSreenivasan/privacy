@@ -32,6 +32,13 @@
       "navKey": "SongContent"
     },
     {
+      "title": "குமாரஸ்த்தவம்",
+      "author": "ஸ்ரீமத் பாம்பன் குமரகுருதாச சுவாமிகள்",
+      "bgColor": "#FF3D8D7A",
+      "filePath": "Kumarasthuvam.json",
+      "navKey": "Archanai"
+    },
+    {
       "title": "கோளறு திருப்பதிகம்",
       "author": "திருஞானசம்பந்தர்",
       "bgColor": "#FF973131",
