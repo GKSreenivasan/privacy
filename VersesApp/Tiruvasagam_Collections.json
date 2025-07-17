@@ -3,258 +3,309 @@
   "description": "இயற்றியவர் மாணிக்கவாசகர். திருவாசகம் 51 பகுதிகளையும் 658 பாடல்களையும் கொண்டுள்ளது.",
   "collections": [
     {
-      "title": "01 சிவபுராணம்\n   {நமச்சிவாய வாஅழ்க...}",
+      "title": "01 சிவபுராணம்",
+      "subTitle": "நமச்சிவாய வாஅழ்க...",
       "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Shiva.png",
       "filePath": "Tiruvasagam/Sivapuranam.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "02 கீர்த்தித் திருவகவல்\n   {தில்லை மூதூர் ஆடிய }",
+      "title": "02 கீர்த்தித் திருவகவல்",
+      "subTitle": "தில்லை மூதூர் ஆடிய...",
       "filePath": "Tiruvasagam/02.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "03 திருவண்டப் பகுதி\n   {அண்டப் பகுதியின்...}",
+      "title": "03 திருவண்டப் பகுதி",
+      "subTitle": "அண்டப் பகுதியின்...",
       "filePath": "Tiruvasagam/03.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "04 போற்றித் திருவகவல் - நான்முகன் முதலா",
+      "title": "04 போற்றித் திருவகவல்",
+      "subTitle": "நான்முகன் முதலா...",
       "filePath": "Tiruvasagam/04.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "05 திருச்சதகம் - மெய்தான் அரும்பி",
+      "title": "05 திருச்சதகம்",
+      "subTitle": "மெய்தான் அரும்பி...",
       "filePath": "Tiruvasagam/05.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "06 நீத்தல் விண்ணப்பம் - கடையவ னேனைக் ",
+      "title": "06 நீத்தல் விண்ணப்பம்",
+      "subTitle": "கடையவ னேனைக்...",
       "filePath": "Tiruvasagam/06.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "07 திருவெம்பாவை - ஆதியும் அந்தமும் ",
+      "title": "07 திருவெம்பாவை",
+      "subTitle": "ஆதியும் அந்தமும்...",
       "filePath": "Tiruvasagam/07.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "08 திரு அம்மானை - செங்கண் நெடுமாலுஞ்",
+      "title": "08 திரு அம்மானை",
+      "subTitle": "செங்கண் நெடுமாலுஞ்...",
       "filePath": "Tiruvasagam/08.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "09 திருப்பொற் சுண்ணம் - முத்துநல் தாமம்பூ ",
+      "title": "09 திருப்பொற் சுண்ணம்",
+      "subTitle": "முத்துநல் தாமம்பூ...",
       "filePath": "Tiruvasagam/09.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "10 திருக்கோத்தும்பி - பூவேறு கோனும் ",
+      "title": "10 திருக்கோத்தும்பி",
+      "subTitle": "பூவேறு கோனும்...",
       "filePath": "Tiruvasagam/10.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "11 திருத்தெள்ளேணம் - திருமாலும் பன்றியாய்ச்",
+      "title": "11 திருத்தெள்ளேணம்",
+      "subTitle": "திருமாலும் பன்றியாய்ச்...",
       "filePath": "Tiruvasagam/11.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "12 திருச்சாழல் - பூசுவதும் வெண்ணீறு",
+      "title": "12 திருச்சாழல்",
+      "subTitle": "பூசுவதும் வெண்ணீறு...",
       "filePath": "Tiruvasagam/12.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "13 திருப்பூவல்லி - இணையார் திருவடி",
+      "title": "13 திருப்பூவல்லி",
+      "subTitle": "இணையார் திருவடி...",
       "filePath": "Tiruvasagam/13.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "14 திருஉந்தியார் - வளைந்தது வில்லு",
+      "title": "14 திருஉந்தியார்",
+      "subTitle": "வளைந்தது வில்லு...",
       "filePath": "Tiruvasagam/14.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "15 திருத்தோள் நோக்கம் - பூத்தாரும் பொய்கைப்",
+      "title": "15 திருத்தோள் நோக்கம்",
+      "subTitle": "பூத்தாரும் பொய்கைப்...",
       "filePath": "Tiruvasagam/15.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "16 திருப்பொன்னூசல் - சீரார் பவளங்கால்",
+      "title": "16 திருப்பொன்னூசல்",
+      "subTitle": "சீரார் பவளங்கால்...",
       "filePath": "Tiruvasagam/16.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "17 அன்னைப் பத்து - வேத மொழியர்வெண்",
+      "title": "17 அன்னைப் பத்து",
+      "subTitle": "வேத மொழியர்வெண்",
       "filePath": "Tiruvasagam/17.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "18 குயிற்பத்து - கீத மினிய குயிலே ",
+      "title": "18 குயிற்பத்து",
+      "subTitle": "கீத மினிய குயிலே...",
       "filePath": "Tiruvasagam/18.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "19 திருத்தசாங்கம் - ஏரார் இளங்கிளியே",
+      "title": "19 திருத்தசாங்கம்",
+      "subTitle": "ஏரார் இளங்கிளியே...",
       "filePath": "Tiruvasagam/19.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "20 திருப்பள்ளியெழுச்சி - போற்றியென் வாழ்முத",
-      "filePath": "Tiruvasagam/20",
+      "title": "20 திருப்பள்ளியெழுச்சி",
+      "subTitle": "போற்றியென் வாழ்முத...",
+      "filePath": "Tiruvasagam/20.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "21 கோயில் மூத்த திருப்பதிகம் - உடையாள் உன்தன்",
-      "filePath": "Tiruvasagam/21.",
+      "title": "21 கோயில் மூத்த திருப்பதிகம்",
+      "subTitle": "உடையாள் உன்தன்...",
+      "filePath": "Tiruvasagam/21.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "22 கோயில் திருப்பதிகம் - மாறிநின்றென்னை ",
+      "title": "22 கோயில் திருப்பதிகம்",
+      "subTitle": "மாறிநின்றென்னை...",
       "filePath": "Tiruvasagam/22.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "23 செத்திலாப் பத்து - பொய்யனேன் அகம்நெகப்",
+      "title": "23 செத்திலாப் பத்து",
+      "subTitle": "பொய்யனேன் அகம்நெகப்...",
       "filePath": "Tiruvasagam/23.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "24 அடைக்கலப் பத்து - செழுக்கமலத் திரளனநின்",
+      "title": "24 அடைக்கலப் பத்து",
+      "subTitle": "செழுக்கமலத் திரளனநின்...",
       "filePath": "Tiruvasagam/24.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "25 ஆசைப்பத்து - கருடக்கொடியோன் காணமாட்டாக்",
+      "title": "25 ஆசைப்பத்து",
+      "subTitle": "கருடக்கொடியோன் காணமாட்டாக்...",
       "filePath": "Tiruvasagam/25.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "26 அதிசயப் பத்து - வைப்பு மாடென்றும்",
+      "title": "26 அதிசயப் பத்து",
+      "subTitle": "வைப்பு மாடென்றும்...",
       "filePath": "Tiruvasagam/26.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "27 புணர்ச்சிப்பத்து - சுடர்பொற்குன்றைத் தோளாமுத்தை",
+      "title": "27 புணர்ச்சிப்பத்து",
+      "subTitle": "சுடர்பொற்குன்றைத் தோளாமுத்தை...",
       "filePath": "Tiruvasagam/27.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "28 வாழாப்பத்து - பாரொடு விண்ணாய்ப்",
+      "title": "28 வாழாப்பத்து",
+      "subTitle": "பாரொடு விண்ணாய்ப்...",
       "filePath": "Tiruvasagam/28.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "29 அருட்பத்து - சோதியே சுடரே",
+      "title": "29 அருட்பத்து",
+      "subTitle": "சோதியே சுடரே...",
       "filePath": "Tiruvasagam/29.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "30 திருக்கழுக்குன்றப் பதிகம் - பிணக்கிலாத பெருந்துறைப்பெரு",
+      "title": "30 திருக்கழுக்குன்றப் பதிகம்",
+      "subTitle": "பிணக்கிலாத பெருந்துறைப்பெரு...",
       "filePath": "Tiruvasagam/30.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "31 கண்டபத்து - இந்திரிய வயமயங்கி",
+      "title": "31 கண்டபத்து",
+      "subTitle": "இந்திரிய வயமயங்கி...",
       "filePath": "Tiruvasagam/31.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "32 பிரார்த்தனைப் பத்து - கலந்து நின்னடி",
+      "title": "32 பிரார்த்தனைப் பத்து",
+      "subTitle": "கலந்து நின்னடி...",
       "filePath": "Tiruvasagam/32.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "33 குழைத்த பத்து - குழைத்தால் பண்டைக்",
+      "title": "33 குழைத்த பத்து",
+      "subTitle": "குழைத்தால் பண்டைக்...",
       "filePath": "Tiruvasagam/33.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "34 உயிருண்ணிப்பத்து - பைந்நாப் பட அரவேரல்குல்",
+      "title": "34 உயிருண்ணிப்பத்து",
+      "subTitle": "பைந்நாப் பட அரவேரல்குல்...",
       "filePath": "Tiruvasagam/34.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "35 அச்சப்பத்து - புற்றில்வாள் அரவும்",
+      "title": "35 அச்சப்பத்து",
+      "subTitle": "புற்றில்வாள் அரவும்...",
       "filePath": "Tiruvasagam/35.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "36 திருப்பாண்டிப் பதிகம் - பருவரை மங்கைதன்",
+      "title": "36 திருப்பாண்டிப் பதிகம்",
+      "subTitle": "பருவரை மங்கைதன்...",
       "filePath": "Tiruvasagam/36.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "37 பிடித்த பத்து - உம்பர்கட் ரசே",
+      "title": "37 பிடித்த பத்து",
+      "subTitle": "உம்பர்கட் ரசே...",
       "filePath": "Tiruvasagam/37.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "38 திருவேசறவு - இரும்புதரு மனத்தேனை",
+      "title": "38 திருவேசறவு",
+      "subTitle": "இரும்புதரு மனத்தேனை...",
       "filePath": "Tiruvasagam/38.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "39 திருப்புலம்பல் - பூங்கமலத் தயனொடுமால்",
+      "title": "39 திருப்புலம்பல்",
+      "subTitle": "பூங்கமலத் தயனொடுமால்...",
       "filePath": "Tiruvasagam/39.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "40 குலாப் பத்து - ஓடுங் கவந்தியுமே",
+      "title": "40 குலாப் பத்து",
+      "subTitle": "ஓடுங் கவந்தியுமே...",
       "filePath": "Tiruvasagam/40.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "41 அற்புதப்பத்து - மைய லாய்இந்த",
+      "title": "41 அற்புதப்பத்து",
+      "subTitle": "மைய லாய்இந்த...",
       "filePath": "Tiruvasagam/41.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "42 சென்னிப்பத்து - தேவ தேவன்மெய்ச்",
+      "title": "42 சென்னிப்பத்து",
+      "subTitle": "தேவ தேவன்மெய்ச்...",
       "filePath": "Tiruvasagam/42.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "43 திருவார்த்தை - மாதிவர் பாகன்",
+      "title": "43 திருவார்த்தை",
+      "subTitle": "மாதிவர் பாகன்...",
       "filePath": "Tiruvasagam/43.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "44 எண்ணப்பதிகம் - பாருருவாய ",
+      "title": "44 எண்ணப்பதிகம்",
+      "subTitle": "பாருருவாய...",
       "filePath": "Tiruvasagam/44.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "45 யாத்திரைப் பத்து - பூவார் சென்னி",
+      "title": "45 யாத்திரைப் பத்து",
+      "subTitle": "பூவார் சென்னி...",
       "filePath": "Tiruvasagam/45.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "46 திருப்படை எழுச்சி - ஞானவாள் ஏந்தும்ஐயர்",
+      "title": "46 திருப்படை எழுச்சி",
+      "subTitle": "ஞானவாள் ஏந்தும்ஐயர்...",
       "filePath": "Tiruvasagam/46.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "47 திருவெண்பா - வெய்ய வினையிரண்டும்",
+      "title": "47 திருவெண்பா",
+      "subTitle": "வெய்ய வினையிரண்டும்...",
       "filePath": "Tiruvasagam/47.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "48 பண்டாய நான்மறை - பண்டாய நான்மறையும்",
+      "title": "48 பண்டாய நான்மறை",
+      "subTitle": "பண்டாய நான்மறையும்...",
       "filePath": "Tiruvasagam/48.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "49 திருப்படை ஆட்சி - கண்களிரண்டும் அவன்கழல்",
+      "title": "49 திருப்படை ஆட்சி",
+      "subTitle": "கண்களிரண்டும் அவன்கழல்...",
       "filePath": "Tiruvasagam/49.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "50 ஆனந்தமாலை - மின்னே ரனைய",
+      "title": "50 ஆனந்தமாலை",
+      "subTitle": "மின்னே ரனைய...",
       "filePath": "Tiruvasagam/50.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "51 அச்சோப் பதிகம் - முத்திநெறி அறியாத",
+      "title": "51 அச்சோப் பதிகம்",
+      "subTitle": "முத்திநெறி அறியாத...",
       "filePath": "Tiruvasagam/51.txt",
       "navKey": "SongLyrics"
     }
