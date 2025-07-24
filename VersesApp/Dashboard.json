@@ -78,6 +78,12 @@
       "bgColor": "#FF441752",
       "filePath": "Sarabeswarar_Potri.json",
       "navKey": "Archanai"
+    },{
+      "title": "அற்புதம்\nசெய்யும்\nபதிகங்கள்",
+      "author": "பதிகங்கள்",
+      "bgColor": "#FF0A400C",
+      "filePath": "Useful_Collections.json",
+      "navKey": "SongCollections"
     }
   ]
 }

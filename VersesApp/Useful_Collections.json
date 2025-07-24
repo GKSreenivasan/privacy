@@ -1,0 +1,76 @@
+{
+  "title": "அற்புதம் செய்யும் பதிகங்கள்",
+  "description": "குறிப்பிட்ட பதிகங்களை குறிப்பிட்ட நோக்கங்களுக்காக ஓதுவதன் மூலம், அந்தந்த பலன்களை அடையலாம்.ஒவ்வொரு பதிகத்திற்கும் ஒவ்வொரு சிறப்பு உண்டு.",
+  "collections": [
+    {
+      "title": "நல்ல நட்பு,உண்மை சிவனடியார்களின் நட்பு கிடைக்க பாட வேண்டிய பதிகம்",
+      "subTitle": "1",
+      "image": "",
+      "filePath": "Useful/1.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வழக்குகளில் வெற்றி பெற பாட வேண்டிய பதிகம்",
+      "subTitle": "2",
+      "image": "",
+      "filePath": "Useful/2.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வறுமை நீங்கி செல்வம் பெற பாட வேண்டிய பதிகம்",
+      "subTitle": "3",
+      "image": "",
+      "filePath": "Useful/3.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "குழந்தை பேறு பெற பாட வேண்டிய பதிகம்",
+      "subTitle": "4",
+      "image": "",
+      "filePath": "Useful/4.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கல்வியில் சிறந்து விளங்க பாட வேண்டிய பதிகம்",
+      "subTitle": "5",
+      "image": "",
+      "filePath": "Useful/5.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வலிப்பு நோய் நீங்க பாட வேண்டிய பதிகம்",
+      "subTitle": "6",
+      "image": "",
+      "filePath": "Useful/6.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "ஒன்பது கிரகங்களும் நல்லதையே செய்வதற்கான பதிகம்",
+      "subTitle": "7",
+      "image": "",
+      "filePath": "Useful/7.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "பணம் தரும் பதிகம்",
+      "subTitle": "8",
+      "image": "",
+      "filePath": "Useful/8.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கடன் தொல்லை நீங்கவும், செல்வ வளம் பெறவும் பதிகம்",
+      "subTitle": "9",
+      "image": "",
+      "filePath": "Useful/9.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "ஈசனை நேரில் காண",
+      "subTitle": "10",
+      "image": "",
+      "filePath": "Useful/10.txt",
+      "navKey": "SongLyrics"
+    }
+  ]
+}
