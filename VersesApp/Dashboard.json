@@ -3,7 +3,7 @@
   "description": "Dashboard Content",
   "collections": [
     {
-      "title": "விநாயகர் அகவல்",
+      "title": "விநாயகர்\nஅகவல்",
       "author": "ஔவையார்",
       "bgColor": "#FFFFB823",
       "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Ganesha.png",
@@ -11,11 +11,17 @@
       "navKey": "SongLyrics"
     },
     {
-      "title": "கந்தர் அநுபூதி",
+      "title": "கந்தர்\nஅநுபூதி",
       "author": "அருணகிரிநாதர்",
       "bgColor": "#FF399918",
       "filePath": "Kandhar_Anubudhi.json",
       "navKey": "SongContent"
+    },{
+      "title": "கந்த சஷ்டி கவசம்",
+      "author": "ஸ்ரீ தேவராய சுவாமிகள்",
+      "bgColor": "#FFCB0404",
+      "filePath": "Kanda_Sasti.json",
+      "navKey": "2PartContent"
     },
     {
       "title": "திருவாசகம்",
@@ -25,7 +31,7 @@
       "navKey": "SongCollections"
     },
     {
-      "title": "அபிராமி அந்தாதி",
+      "title": "அபிராமி\nஅந்தாதி",
       "author": "அபிராமி பட்டர்",
       "bgColor": "#FFD2074C",
       "filePath": "Abirami_Antati.json",
@@ -39,14 +45,14 @@
       "navKey": "Archanai"
     },
     {
-      "title": "கோளறு திருப்பதிகம்",
+      "title": "கோளறு\nதிருப்பதிகம்",
       "author": "திருஞானசம்பந்தர்",
       "bgColor": "#FF973131",
       "filePath": "Kolaru_Pathigam.txt",
       "navKey": "SongLyrics"
     },
     {
-      "title": "நவகிரக காயத்ரி மந்திரம்",
+      "title": "நவகிரக\nகாயத்ரி\nமந்திரம்",
       "author": "ஸ்ரீ விஸ்வாமித்திரர்",
       "bgColor": "#FF03A6A1",
       "filePath": "Navagraha_Gayatri.json",
@@ -60,14 +66,14 @@
       "navKey": "2PartContent"
     },
     {
-      "title": "ஸ்ரீ வாராஹி மாலை",
+      "title": "ஸ்ரீ வாராஹி\nமாலை",
       "author": "வீரை கவிராச பண்டிதர்",
       "bgColor": "#FFFF715B",
       "filePath": "Varahi_Malai.json",
       "navKey": "2PartContent"
     },
     {
-      "title": "ஸ்ரீ சரபேஸ்வரர் 108 போற்றி",
+      "title": "ஸ்ரீ சரபேஸ்வரர்\n108 போற்றி",
       "author": "ஸ்ரீ சரபேஸ்வரர்",
       "bgColor": "#FF441752",
       "filePath": "Sarabeswarar_Potri.json",
