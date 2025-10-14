@@ -84,6 +84,13 @@
       "bgColor": "#FF0D7C66",
       "filePath": "Useful_Collections.json",
       "navKey": "SongCollections"
+    },{
+      "title": "காலபைரவ\nஅஷ்டகம்",
+      "author": "ஆதிசங்கரர்",
+      "bgColor": "#FFFFB823",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Shiva.png",
+      "filePath": "Kala_Bhairava_Ashtakam.txt",
+      "navKey": "SongLyrics"
     }
   ]
 }
