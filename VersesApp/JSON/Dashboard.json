@@ -1,0 +1,14 @@
+{
+  "title": "",
+  "description": "Dashboard Content",
+  "collections": [
+    {
+      "title": "",
+      "author": "",
+      "bgColor": "#FFFFB823",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Ganesha.png",
+      "filePath": "Vinayagar_Agaval.txt",
+      "navKey": "SongLyrics"
+    }
+  ]
+}

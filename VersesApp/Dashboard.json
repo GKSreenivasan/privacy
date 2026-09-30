@@ -16,7 +16,15 @@
       "bgColor": "#FF399918",
       "filePath": "Kandhar_Anubudhi.json",
       "navKey": "SongContent"
-    },{
+    },
+    {
+      "title": "ஐயப்ப பஞ்சரத்ன மாலா",
+      "author": "அகத்திய முனிவர்",
+      "bgColor": "#FF253C6D",
+      "filePath": "Ayyappa_Pancha_Rathna_Mala.txt",
+      "navKey": "SongLyrics"
+    },
+    {
       "title": "கந்த சஷ்டி கவசம்",
       "author": "ஸ்ரீ தேவராய சுவாமிகள்",
       "bgColor": "#FFCB0404",
@@ -78,13 +86,15 @@
       "bgColor": "#FF441752",
       "filePath": "Sarabeswarar_Potri.json",
       "navKey": "Archanai"
-    },{
+    },
+    {
       "title": "அற்புதம்\nசெய்யும்\nபதிகங்கள்",
       "author": "பதிகங்கள்",
       "bgColor": "#FF0D7C66",
       "filePath": "Useful_Collections.json",
       "navKey": "SongCollections"
-    },{
+    },
+    {
       "title": "காலபைரவ\nஅஷ்டகம்",
       "author": "ஆதிசங்கரர்",
       "bgColor": "#FFFFB823",
