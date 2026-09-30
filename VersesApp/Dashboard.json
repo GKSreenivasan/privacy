@@ -18,10 +18,11 @@
       "navKey": "SongContent"
     },
     {
-      "title": "ஐயப்ப பஞ்சரத்ன மாலா",
+      "title": "ஸ்ரீ ஐயப்ப\nபஞ்சரத்னம்",
       "author": "அகத்திய முனிவர்",
-      "bgColor": "#FF253C6D",
+      "bgColor": "#FF4E1F6E",
       "filePath": "Ayyappa_Pancha_Rathna_Mala.txt",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Ayappa.webp",
       "navKey": "SongLyrics"
     },
     {
@@ -34,7 +35,7 @@
     {
       "title": "திருவாசகம்",
       "author": "மாணிக்கவாசகர்",
-      "bgColor": "#FF604652",
+      "bgColor": "#FFF5824A",
       "filePath": "Tiruvasagam_Collections.json",
       "navKey": "SongCollections"
     },
