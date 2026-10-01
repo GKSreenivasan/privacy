@@ -1,0 +1,521 @@
+{
+  "title": "திருவாசகம்",
+  "description": "இயற்றியவர் மாணிக்கவாசகர். திருவாசகம் 51 பகுதிகளையும் 658 பாடல்களையும் கொண்டுள்ளது.",
+  "author": "மாணிக்கவாசகர்",
+  "collections": [
+    {
+      "index": 1,
+      "title": "01 சிவபுராணம்",
+      "subTitle": "நமசிவாய வாழ்க...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Siva_Puranam.jpg",
+      "filePath": "Tiruvasagam/Sivapuranam.txt",
+      "navKey": "SongLyrics",
+      "songContent": ""
+    },
+    {
+      "index": 2,
+      "title": "02 கீர்த்தித் திருவகவல்",
+      "subTitle": "தில்லை மூதூர் ஆடிய...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/02.txt",
+      "navKey": "SongLyrics",
+      "songContent": ""
+    },
+    {
+      "index": 3,
+      "title": "03 திருவண்டப் பகுதி",
+      "subTitle": "அண்டப் பகுதியின்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/03.txt",
+      "navKey": "SongLyrics",
+      "songContent": ""
+    },
+    {
+      "index": 4,
+      "title": "04 போற்றித் திருவகவல்",
+      "subTitle": "நான்முகன் முதலா...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/04.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 5,
+      "title": "05 திருச்சதகம்",
+      "subTitle": "மெய்தான் அரும்பி...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/05.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 6,
+      "title": "06 நீத்தல் விண்ணப்பம்",
+      "subTitle": "கடையவ னேனைக்...",
+      "templeName": "அருள்மிகு மங்களநாதசுவாமி கோயில்",
+      "place": "உத்தரகோசமங்கை",
+      "location": "https://maps.app.goo.gl/k44ppGA6qzNkCH7s5",
+      "filePath": "Tiruvasagam/06.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 7,
+      "title": "07 திருவெம்பாவை",
+      "subTitle": "ஆதியும் அந்தமும்...",
+      "templeName": "அருள்மிகு அண்ணாமலையார் கோயில்",
+      "place": "அண்ணாமலை",
+      "location": "https://maps.app.goo.gl/EpquPJNDDoZryusC9",
+      "filePath": "Tiruvasagam/07.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 8,
+      "title": "08 திரு அம்மானை",
+      "subTitle": "செங்கண் நெடுமாலுஞ்...",
+      "templeName": "அருள்மிகு அண்ணாமலையார் கோயில்",
+      "place": "அண்ணாமலை",
+      "location": "https://maps.app.goo.gl/EpquPJNDDoZryusC9",
+      "filePath": "Tiruvasagam/08.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 9,
+      "title": "09 திருப்பொற் சுண்ணம்",
+      "subTitle": "முத்துநல் தாமம்பூ...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/09.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 10,
+      "title": "10 திருக்கோத்தும்பி",
+      "subTitle": "பூவேறு கோனும்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/10.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 11,
+      "title": "11 திருத்தெள்ளேணம்",
+      "subTitle": "திருமாலும் பன்றியாய்ச்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/11.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 12,
+      "title": "12 திருச்சாழல்",
+      "subTitle": "பூசுவதும் வெண்ணீறு...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/12.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 13,
+      "title": "13 திருப்பூவல்லி",
+      "subTitle": "இணையார் திருவடி...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/13.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 14,
+      "title": "14 திருஉந்தியார்",
+      "subTitle": "வளைந்தது வில்லு...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/14.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 15,
+      "title": "15 திருத்தோள் நோக்கம்",
+      "subTitle": "பூத்தாரும் பொய்கைப்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/15.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 16,
+      "title": "16 திருப்பொன்னூசல்",
+      "subTitle": "சீரார் பவளங்கால்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/16.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 17,
+      "title": "17 அன்னைப் பத்து",
+      "subTitle": "வேத மொழியர்வெண்",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/17.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 18,
+      "title": "18 குயிற்பத்து",
+      "subTitle": "கீத மினிய குயிலே...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/18.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 19,
+      "title": "19 திருத்தசாங்கம்",
+      "subTitle": "ஏரார் இளங்கிளியே...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/19.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 20,
+      "title": "20 திருப்பள்ளியெழுச்சி",
+      "subTitle": "போற்றியென் வாழ்முத...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/20.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 21,
+      "title": "21 கோயில் மூத்த திருப்பதிகம்",
+      "subTitle": "உடையாள் உன்தன்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/21.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 22,
+      "title": "22 கோயில் திருப்பதிகம்",
+      "subTitle": "மாறிநின்றென்னை...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/22.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 23,
+      "title": "23 செத்திலாப் பத்து",
+      "subTitle": "பொய்யனேன் அகம்நெகப்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/23.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 24,
+      "title": "24 அடைக்கலப் பத்து",
+      "subTitle": "செழுக்கமலத் திரளனநின்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/24.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 25,
+      "title": "25 ஆசைப்பத்து",
+      "subTitle": "கருடக்கொடியோன் காணமாட்டாக்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/25.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 26,
+      "title": "26 அதிசயப் பத்து",
+      "subTitle": "வைப்பு மாடென்றும்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/26.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 27,
+      "title": "27 புணர்ச்சிப்பத்து",
+      "subTitle": "சுடர்பொற்குன்றைத் தோளாமுத்தை...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/27.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 28,
+      "title": "28 வாழாப்பத்து",
+      "subTitle": "பாரொடு விண்ணாய்ப்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/28.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 29,
+      "title": "29 அருட்பத்து",
+      "subTitle": "சோதியே சுடரே...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/29.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 30,
+      "title": "30 திருக்கழுக்குன்றப் பதிகம்",
+      "subTitle": "பிணக்கிலாத பெருந்துறைப்பெரு...",
+      "templeName": "அருள்மிகு வேதகிரீசுவரர் கோயில்",
+      "place": "கழுக்குன்றம்",
+      "location": "https://maps.app.goo.gl/atuKQgiwKZaSdwSZ7",
+      "filePath": "Tiruvasagam/30.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 31,
+      "title": "31 கண்டபத்து",
+      "subTitle": "இந்திரிய வயமயங்கி...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/31.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 32,
+      "title": "32 பிரார்த்தனைப் பத்து",
+      "subTitle": "கலந்து நின்னடி...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/32.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 33,
+      "title": "33 குழைத்த பத்து",
+      "subTitle": "குழைத்தால் பண்டைக்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/33.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 34,
+      "title": "34 உயிருண்ணிப்பத்து",
+      "subTitle": "பைந்நாப் பட அரவேரல்குல்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/34.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 35,
+      "title": "35 அச்சப்பத்து",
+      "subTitle": "புற்றில்வாள் அரவும்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/35.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 36,
+      "title": "36 திருப்பாண்டிப் பதிகம்",
+      "subTitle": "பருவரை மங்கைதன்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/36.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 37,
+      "title": "37 பிடித்த பத்து",
+      "subTitle": "உம்பர்கட் ரசே...",
+      "templeName": "அருள்மிகு சட்டைநாதர் கோயில்",
+      "place": "சீர்காழி",
+      "location": "https://maps.app.goo.gl/pMUtuHFgZ7UAbdqy5",
+      "filePath": "Tiruvasagam/37.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 38,
+      "title": "38 திருவேசறவு",
+      "subTitle": "இரும்புதரு மனத்தேனை...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/38.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 39,
+      "title": "39 திருப்புலம்பல்",
+      "subTitle": "பூங்கமலத் தயனொடுமால்...",
+      "templeName": "அருள்மிகு தியாகராஜர் கோயில்",
+      "place": "ஆரூர்",
+      "location": "https://maps.app.goo.gl/5xGenKcXp51ws5EV6",
+      "filePath": "Tiruvasagam/39.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 40,
+      "title": "40 குலாப் பத்து",
+      "subTitle": "ஓடுங் கவந்தியுமே...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/40.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 41,
+      "title": "41 அற்புதப்பத்து",
+      "subTitle": "மைய லாய்இந்த...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/41.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 42,
+      "title": "42 சென்னிப்பத்து",
+      "subTitle": "தேவ தேவன்மெய்ச்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/42.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 43,
+      "title": "43 திருவார்த்தை",
+      "subTitle": "மாதிவர் பாகன்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/43.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 44,
+      "title": "44 எண்ணப்பதிகம்",
+      "subTitle": "பாருருவாய...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/44.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 45,
+      "title": "45 யாத்திரைப் பத்து",
+      "subTitle": "பூவார் சென்னி...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/45.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 46,
+      "title": "46 திருப்படை எழுச்சி",
+      "subTitle": "ஞானவாள் ஏந்தும்ஐயர்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/46.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 47,
+      "title": "47 திருவெண்பா",
+      "subTitle": "வெய்ய வினையிரண்டும்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/47.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 48,
+      "title": "48 பண்டாய நான்மறை",
+      "subTitle": "பண்டாய நான்மறையும்...",
+      "templeName": "அருள்மிகு ஆத்மநாதர் கோயில்",
+      "place": "திருப்பெருந்துறை",
+      "location": "https://maps.app.goo.gl/HrZamfSNtxPp9wGr5",
+      "filePath": "Tiruvasagam/48.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 49,
+      "title": "49 திருப்படை ஆட்சி",
+      "subTitle": "கண்களிரண்டும் அவன்கழல்...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/49.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 50,
+      "title": "50 ஆனந்தமாலை",
+      "subTitle": "மின்னே ரனைய...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/50.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "index": 51,
+      "title": "51 அச்சோப் பதிகம்",
+      "subTitle": "முத்திநெறி அறியாத...",
+      "templeName": "தில்லை நடராஜர் கோயில்",
+      "place": "சிதம்பரம், தில்லை",
+      "location": "https://maps.app.goo.gl/JDJdz1czLpLLz1PTA",
+      "filePath": "Tiruvasagam/51.txt",
+      "navKey": "SongLyrics"
+    }
+  ]
+}
