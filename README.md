@@ -1,7 +1,11 @@
-# Privacy Policy
-Last Updated:  June 30,2025
+# Privacy Policy for Verses: Tamil Devotional Songs
+Last Updated:  Oct 31,2026
 
-This app doesn’t collect user data
+This Privacy Policy applies to the Android app **Verses: Tamil Devotional Songs** (package name: com.verses.app), published on Google Play by **Dalvik Apps Inc**
+
+This app doesn’t collect user data.
+
+This app uses the following permissions: Internet access (to load content)
 
 **Changes to the Privacy Policy**
 
