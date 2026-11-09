@@ -33,13 +33,6 @@
       "navKey": "2PartContent"
     },
     {
-      "title": "திருவாசகம்",
-      "author": "மாணிக்கவாசகர்",
-      "bgColor": "#FF8C3B1A",
-      "filePath": "Tiruvasagam_Collections.json",
-      "navKey": "TiruvasagamCollections"
-    },
-    {
       "title": "அபிராமி\nஅந்தாதி",
       "author": "அபிராமி பட்டர்",
       "bgColor": "#FF7A2E5B",
@@ -59,13 +52,6 @@
       "bgColor": "#FF6B3A2E",
       "filePath": "Kolaru_Pathigam.txt",
       "navKey": "SongLyrics"
-    },
-    {
-      "title": "மந்திரம்",
-      "author": "ஸ்ரீ விஸ்வாமித்திரர்",
-      "bgColor": "#FF1F6B6B",
-      "filePath": "ListOfMantra.json",
-      "navKey": "MantraContent"
     },
     {
       "title": "லலிதா நவரத்தின மாலை",
