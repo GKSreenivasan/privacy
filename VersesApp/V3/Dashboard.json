@@ -1,0 +1,107 @@
+{
+  "title": "நலம் தரும் பதிகங்கள்",
+  "description": "Dashboard Content",
+  "collections": [
+    {
+      "title": "விநாயகர்\nஅகவல்",
+      "author": "ஔவையார்",
+      "bgColor": "#FF8A5A12",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Ganesha.png",
+      "filePath": "Vinayagar_Agaval.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கந்தர்\nஅநுபூதி",
+      "author": "அருணகிரிநாதர்",
+      "bgColor": "#FF2E6B2E",
+      "filePath": "Kandhar_Anubudhi.json",
+      "navKey": "SongContent"
+    },
+    {
+      "title": "ஸ்ரீ ஐயப்ப\nபஞ்சரத்னம்",
+      "author": "அகத்திய முனிவர்",
+      "bgColor": "#FF5A3A7A",
+      "filePath": "Ayyappa_Pancha_Rathna_Mala.txt",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Ayappa.webp",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கந்த சஷ்டி கவசம்",
+      "author": "ஸ்ரீ தேவராய சுவாமிகள்",
+      "bgColor": "#FF9C2A1A",
+      "filePath": "Kanda_Sasti.json",
+      "navKey": "2PartContent"
+    },
+    {
+      "title": "திருவாசகம்",
+      "author": "மாணிக்கவாசகர்",
+      "bgColor": "#FF8C3B1A",
+      "filePath": "Tiruvasagam_Collections.json",
+      "navKey": "TiruvasagamCollections"
+    },
+    {
+      "title": "அபிராமி\nஅந்தாதி",
+      "author": "அபிராமி பட்டர்",
+      "bgColor": "#FF7A2E5B",
+      "filePath": "Abirami_Antati.json",
+      "navKey": "SongContent"
+    },
+    {
+      "title": "குமாரஸ்த்தவம்",
+      "author": "ஸ்ரீமத் பாம்பன் குமரகுருதாச சுவாமிகள்",
+      "bgColor": "#FF1F4E79",
+      "filePath": "Kumarasthuvam.json",
+      "navKey": "Archanai"
+    },
+    {
+      "title": "கோளறு\nதிருப்பதிகம்",
+      "author": "திருஞானசம்பந்தர்",
+      "bgColor": "#FF6B3A2E",
+      "filePath": "Kolaru_Pathigam.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "மந்திரம்",
+      "author": "ஸ்ரீ விஸ்வாமித்திரர்",
+      "bgColor": "#FF1F6B6B",
+      "filePath": "ListOfMantra.json",
+      "navKey": "MantraContent"
+    },
+    {
+      "title": "லலிதா நவரத்தின மாலை",
+      "author": "ஸ்ரீ அகத்தியர்",
+      "bgColor": "#FF8A2A5E",
+      "filePath": "Lalitha_Navaratna_Maalai.json",
+      "navKey": "2PartContent"
+    },
+    {
+      "title": "ஸ்ரீ வாராஹி\nமாலை",
+      "author": "வீரை கவிராச பண்டிதர்",
+      "bgColor": "#FF8A5A12",
+      "filePath": "Varahi_Malai.json",
+      "navKey": "2PartContent"
+    },
+    {
+      "title": "ஸ்ரீ சரபேஸ்வரர்\n108 போற்றி",
+      "author": "ஸ்ரீ சரபேஸ்வரர்",
+      "bgColor": "#FF2E6B2E",
+      "filePath": "Sarabeswarar_Potri.json",
+      "navKey": "Archanai"
+    },
+    {
+      "title": "அற்புதம்\nசெய்யும்\nபதிகங்கள்",
+      "author": "பதிகங்கள்",
+      "bgColor": "#FF5A3A7A",
+      "filePath": "Useful_Collections.json",
+      "navKey": "SongCollections"
+    },
+    {
+      "title": "காலபைரவ\nஅஷ்டகம்",
+      "author": "ஆதிசங்கரர்",
+      "bgColor": "#FF9C2A1A",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Kala_Bhairavar_Ashtakam.jpg",
+      "filePath": "Kala_Bhairava_Ashtakam.txt",
+      "navKey": "SongLyrics"
+    }
+  ]
+}
