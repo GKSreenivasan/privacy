@@ -152,6 +152,13 @@
       "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Sidha.jpeg",
       "filePath": "LaxhmiStothiram.txt",
       "navKey": "SongLyrics"
+    },
+    {
+      "title": "திருநீற்றுப்பதிகம்",
+      "author": "திருஞானசம்பந்தர்",
+      "bgColor": "#FF5A3A7A",
+      "filePath": "Mandiramavathu_Neer.txt",
+      "navKey": "SongLyrics"
     }
   ]
 }
