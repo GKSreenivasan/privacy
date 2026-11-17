@@ -144,6 +144,14 @@
       "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Sidha.jpeg",
       "filePath": "SithargalPotri.txt",
       "navKey": "SongLyrics"
+    },
+    {
+      "title": "திருமகள் துதி",
+      "author": "அகத்தியர்",
+      "bgColor": "#FF8A5A12",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Sidha.jpeg",
+      "filePath": "LaxhmiStothiram.txt",
+      "navKey": "SongLyrics"
     }
   ]
 }
