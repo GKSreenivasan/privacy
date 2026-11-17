@@ -18,6 +18,14 @@
       "navKey": "SongContent"
     },
     {
+      "title": "ஆதித்ய ஹ்ருதயம்",
+      "author": "அகத்தியர்",
+      "bgColor": "#FFF57513",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Sun.jpeg",
+      "filePath": "Aditya_Hridayam.txt",
+      "navKey": "SongLyrics"
+    },
+    {
       "title": "ஸ்ரீ ஐயப்ப\nபஞ்சரத்னம்",
       "author": "அகத்திய முனிவர்",
       "bgColor": "#FF5A3A7A",
@@ -87,6 +95,30 @@
       "bgColor": "#FF9C2A1A",
       "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Kala_Bhairavar_Ashtakam.jpg",
       "filePath": "Kala_Bhairava_Ashtakam.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வேல் மாறல்",
+      "author": "வள்ளிமலை ஸ்ரீ சச்சிதானந்த சுவாமிகள்",
+      "bgColor": "#FF2E6B2E",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Vel.jpeg",
+      "filePath": "Vel_Maral.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "ஹனுமான் சாலீஸா",
+      "author": "ஹனுமான் சாலீஸா",
+      "bgColor": "#FFF57513",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Hanuman.jpeg",
+      "filePath": "Hanuman_Chalisa.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "திருப்பாவை",
+      "author": "ஆண்டாள்",
+      "bgColor": "#FF5A3A7A",
+      "image": "https://gksreenivasan.github.io/privacy/VersesApp/Image/Andal.jpeg",
+      "filePath": "Tiruppavai.txt",
       "navKey": "SongLyrics"
     }
   ]
