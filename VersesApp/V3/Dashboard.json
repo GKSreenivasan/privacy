@@ -166,6 +166,13 @@
       "bgColor": "#FF5A3A7A",
       "filePath": "Mandiramavathu_Neer.txt",
       "navKey": "SongLyrics"
+    },
+    {
+      "title": "நவகிரகங்களுக்குரிய\nதமிழ்\nமந்திரங்கள்",
+      "author": "",
+      "bgColor": "#FF2E6B2E",
+      "filePath": "Nava_Graha_Tamil_Mantra.txt",
+      "navKey": "SongLyrics"
     }
   ]
 }
