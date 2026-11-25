@@ -1,0 +1,119 @@
+{
+  "title": "திருப்புகழ் பாடல்கள்",
+  "description": "அருணகிரிநாதர் அருளிய திருப்புகழ் பாடல்களில், குறிப்பிட்ட வாழ்க்கைப் பிரச்சனைகளைத் தீர்க்க வல்ல பக்தர்களால் பாராயணம் செய்யப்படும் முக்கியப் பாடல்கள்.\nசெவ்வாய், வெள்ளிக்கிழமைகள், சஷ்டி, கிருத்திகை மற்றும் விசாகம் போன்ற முருகப்பெருமானுக்குரிய விசேஷ நாட்களில் இந்தப் பாடல்களைப் படிப்பது சிறந்தது.\nநம்பிக்கையுடன் தினமும் அல்லது விரத நாட்களில் 6, 9, 12 அல்லது 108 முறை பாராயணம் செய்யலாம்.",
+
+  "collections": [
+    {
+      "title": "காரிய வெற்றி & தடைகள் நீங்க",
+      "subTitle": "1",
+      "image": "",
+      "filePath": "Tirupugazh/1.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "அருள் & ஞானம் பெற",
+      "subTitle": "2",
+      "image": "",
+      "filePath": "Tirupugazh/6.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "எதிரிகள் தொல்லை நீங்க",
+      "subTitle": "3",
+      "image": "",
+      "filePath": "Tirupugazh/65.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "குடும்பத்தில் கருத்து வேறுபாடு நீங்க",
+      "subTitle": "4",
+      "image": "",
+      "filePath": "Tirupugazh/69.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வருமானம் பெருக / பணவரவு",
+      "subTitle": "5",
+      "image": "",
+      "filePath": "Tirupugazh/83.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "எதிரிகள் தொல்லை & செய்வினை நீங்க",
+      "subTitle": "6",
+      "image": "",
+      "filePath": "Tirupugazh/102.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "பகை & துன்பம் நீங்க",
+      "subTitle": "7",
+      "image": "",
+      "filePath": "Tirupugazh/114.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "மனக்கவலை அகல",
+      "subTitle": "8",
+      "image": "",
+      "filePath": "Tirupugazh/183.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "குழந்தை வரம் கிடைக்க",
+      "subTitle": "9",
+      "image": "",
+      "filePath": "Tirupugazh/218.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "தீராத நோய்கள் குணமாக",
+      "subTitle": "10",
+      "image": "",
+      "filePath": "Tirupugazh/256.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "நினைத்த காரியம் கைகூட",
+      "subTitle": "11",
+      "image": "",
+      "filePath": "Tirupugazh/291.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "சொந்த வீடு அமைய",
+      "subTitle": "12",
+      "image": "",
+      "filePath": "Tirupugazh/736.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "வழக்கு பிரச்சனைகள் தீர",
+      "subTitle": "13",
+      "image": "",
+      "filePath": "Tirupugazh/741.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கண் நோய் குணமாக",
+      "subTitle": "14",
+      "image": "",
+      "filePath": "Tirupugazh/843.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "அரசு வேலை கிடைக்க",
+      "subTitle": "15",
+      "image": "",
+      "filePath": "Tirupugazh/907.txt",
+      "navKey": "SongLyrics"
+    },
+    {
+      "title": "கல்வியில் சிறந்து விளங்க",
+      "subTitle": "16",
+      "image": "",
+      "filePath": "Tirupugazh/931.txt",
+      "navKey": "SongLyrics"
+    }
+  ]
+}
